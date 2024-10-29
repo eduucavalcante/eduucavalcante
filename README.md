@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://www.instagram.com/eduucavalcante__">Instagram</a><br>
-  <a href="#">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/eduardo-cavalcante-a3824931a">LinkedIn</a>
 </div>
 
 <!--
