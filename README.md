@@ -8,8 +8,12 @@
 - Soon, software engineering!
 
 <div>
-  <a href="https://www.instagram.com/eduucavalcante__">Instagram</a><br>
-  <a href="https://www.linkedin.com/in/eduardo-cavalcante-a3824931a">LinkedIn</a>
+  <a href="https://www.instagram.com/eduucavalcante__">
+    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" style="width:50px;height:50px">
+  </a><br>
+  <a href="https://www.linkedin.com/in/eduardo-cavalcante-a3824931a">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="width:50px;height:50px">
+  </a>
 </div>
 
 <!--
