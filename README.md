@@ -3,6 +3,8 @@
 <code>console.log("Welcome to my GitHub!");</code>
 <hr>
 
+Diving right into the programming world!
+
 - WebDev Student: HTML, CSS, JavaScript;
 - Soon Node.js;
 - Soon, software engineering!
