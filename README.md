@@ -7,7 +7,7 @@ Diving right into the programming world!
 
 - WebDev Student: HTML, CSS, JavaScript;
 - Soon Node.js;
-- Soon, software engineering!
+- Soon, Software Engineering!
 
 <div>
   <a href="https://www.instagram.com/eduucavalcante__" target="_blank">
