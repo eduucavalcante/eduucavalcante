@@ -15,7 +15,7 @@ Diving right into the programming world!
 
 ###
 
-<p align="left">💻 Soon, Software Engineering!<br>📚 I'm currently learning Node.js, JavaScript, HTML and CSS.<br>🎯 Goals: I want to be able to develop full-stack applications, but my main goal is back-end coding and software engineering.</p>
+<p align="left">💻 Soon, Software Engineering!<br>📚 I'm currently learning Node.js, JavaScript, HTML and CSS.<br>🌐 Advanced English Level.<br>🎯 Goals: I want to be able to develop full-stack applications, but my main goal is back-end coding and software engineering.</p>
 
 ###
 
