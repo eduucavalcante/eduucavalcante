@@ -1,12 +1,43 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<code>console.log("Welcome to my GitHub!");</code>
+###
+
+<code>console.log("Welcome to my GitHub!")</code>
 <hr>
 
 Diving right into the programming world!
 
-- WebDev Student: HTML, CSS, JavaScript, Node.js;
-- Soon, Software Engineering!
+<p align="left">I'm Eduardo and I'm a WebDev student, from Ceará, Brazil.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">💻 Soon, Software Engineering!<br>📚 I'm currently learning Node.js, JavaScript, HTML and CSS.<br>🎯 Goals: I want to be able to develop full-stack applications, but my main goal is back-end coding and software engineering.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
 
 <div>
   <a href="https://www.instagram.com/eduucavalcante__" target="_blank">
