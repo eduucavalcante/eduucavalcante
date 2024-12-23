@@ -5,8 +5,7 @@
 
 Diving right into the programming world!
 
-- WebDev Student: HTML, CSS, JavaScript;
-- Soon Node.js;
+- WebDev Student: HTML, CSS, JavaScript, Node.js;
 - Soon, Software Engineering!
 
 <div>
