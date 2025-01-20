@@ -49,3 +49,5 @@ Diving right into the programming world!
     <code><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="width:50px;height:50px"></code>
   </a>
 </div>
+
+[<img src="https://img.shields.io/badge/-instagram?style=for-the-badge&logo=instagram&logoColor=white&label=INSTAGRAM&color=%23dd2a7b" alt="Instagram">](https://www.instagram.com/eduucavalcante__)
