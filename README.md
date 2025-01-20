@@ -2,7 +2,9 @@
 
 ###
 
-<code>console.log("Welcome to my GitHub!");</code>
+```js
+console.log("Welcome to my GitHub!");
+```
 <hr>
 
 Diving right into the programming world!
