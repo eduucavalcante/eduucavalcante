@@ -41,15 +41,6 @@ Diving right into the programming world!
 
 ###
 
-<div>
-  <a href="https://www.instagram.com/eduucavalcante__" target="_blank">
-    <code><img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" style="width:50px;height:50px"></code>
-    </a><br>
-  <a href="https://www.linkedin.com/in/eduardo-cavalcante-a3824931a" target="_blank">
-    <code><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="width:50px;height:50px"></code>
-  </a>
-</div>
-
 [<img src="https://img.shields.io/badge/-instagram?style=for-the-badge&logo=instagram&logoColor=white&label=INSTAGRAM&color=%23dd2a7b" alt="Instagram">](https://www.instagram.com/eduucavalcante__)
 
 [<img src="https://img.shields.io/badge/-linkedin?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&color=%230e76a8" alt="LinkedIn">](https://www.linkedin.com/eduardo-cavalcante-a3824931a)
