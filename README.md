@@ -13,7 +13,7 @@ Diving right into the programming world!
 
 ###
 
-<h2 align="left">About me</h2>
+## About me
 
 ###
 
