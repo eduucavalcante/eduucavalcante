@@ -51,3 +51,7 @@ Diving right into the programming world!
 </div>
 
 [<img src="https://img.shields.io/badge/-instagram?style=for-the-badge&logo=instagram&logoColor=white&label=INSTAGRAM&color=%23dd2a7b" alt="Instagram">](https://www.instagram.com/eduucavalcante__)
+
+[<img src="https://img.shields.io/badge/-linkedin?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&color=%230e76a8" alt="LinkedIn">](https://www.linkedin.com/eduardo-cavalcante-a3824931a)
+
+<a href="mailto: eduardo.cavalcante.contact@gmail.com"><img src="https://img.shields.io/badge/-gmail?style=for-the-badge&logo=gmail&logoColor=white&label=gmail&color=%23ea4335" alt="Gmail"></a>
