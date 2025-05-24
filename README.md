@@ -25,7 +25,7 @@ Diving right into the programming world!
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,js,html,css,git,sequelize,vscode,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,html,css,js,git,sequelize,vscode,netlify)](https://skillicons.dev)
 
 ###
 
