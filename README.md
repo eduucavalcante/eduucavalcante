@@ -7,17 +7,13 @@ console.log("Welcome to my GitHub!");
 ```
 <hr>
 
-Diving right into the programming world!
-
-<p align="left">I'm Eduardo and I'm a WebDev and Software Engineering student, from Ceará, Brazil.</p>
-
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">💻 Software Engineering at Universidade Federal do Ceará (UFC).<br>📚 I'm currently learning Node.js, MySQL, JavaScript, HTML and CSS.<br>🌐 Advanced English Level.<br>🎯 Goals: I want to be able to develop full-stack applications, but my main goal is back-end coding and software engineering.</p>
+<p align="left">💻 Software Engineering at Universidade Federal do Ceará (UFC).<br>📚 I'm currently learning Node.js, MySQL, JavaScript, HTML and CSS.<br>🌐 Advanced English Level.<br>🎯 Goals: I want to be able to develop full-stack applications, but my main goal is back-end coding and Software Engineering.</p>
 
 ###
 
