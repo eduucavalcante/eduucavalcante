@@ -21,7 +21,7 @@ console.log("Welcome to my GitHub!");
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,html,css,js,react,git,sequelize,vscode,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,html,css,js,git,github,react,sequelize,vscode,netlify)](https://skillicons.dev)
 
 ###
 
