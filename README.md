@@ -13,7 +13,7 @@ console.log("Welcome to my GitHub!");
 
 ###
 
-<p align="left">💻 Software Engineering at Universidade Federal do Ceará (UFC).<br>📚 Currently learning Node.js, MySQL, React, JavaScript, HTML and CSS.<br>🌐 Advanced English Level.<br>🎯 Goals: I want to be able to develop full-stack applications, but my main goal is back-end coding and Software Engineering.</p>
+<p align="left">💻 Software Engineering at Universidade Federal do Ceará (UFC).<br>📚 Currently learning Node.js, TypeScript, MySQL, React, JavaScript, HTML and CSS.<br>🌐 Advanced English Level.<br>🎯 Goals: I want to be able to develop full-stack applications, but my main goal is back-end coding and Software Engineering.</p>
 
 ###
 
@@ -21,7 +21,7 @@ console.log("Welcome to my GitHub!");
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,html,css,js,git,github,react,sequelize,vscode,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,mysql,html,css,js,git,github,react,sequelize,vscode,netlify)](https://skillicons.dev)
 
 ###
 
