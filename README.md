@@ -47,9 +47,9 @@ console.log("Welcome to my GitHub!");
 
 ###
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/eduucavalcante__)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardo-cavalcante-dev)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:eduardo.cavalcante.contact@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E01C3C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduucavalcante__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cavalcante-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-08851B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.cavalcante.contact@gmail.com)
 
 ###
 
