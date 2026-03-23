@@ -25,8 +25,21 @@ console.log("Welcome to my GitHub!");
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,mysql,html,css,js,git)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=github,react,sequelize,vscode,netlify,vercel,c)](https://skillicons.dev)
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-6DB33F?style=for-the-badge&logo=nodejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-2572f7?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20Lang-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F2DB18?style=for-the-badge&logo=mysql&logoColor=black" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-F44336?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  />
+</p>
 
 ###
 
