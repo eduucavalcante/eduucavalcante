@@ -13,7 +13,11 @@ console.log("Welcome to my GitHub!");
 
 ###
 
-<p align="left">💻 Software Engineering at Universidade Federal do Ceará (UFC).<br>📚 Currently learning Node.js, TypeScript, MySQL, React, JavaScript, HTML and CSS.<br>🌐 Advanced English Level.<br>🎯 Goals: I want to be able to develop full-stack applications, but my main goal is back-end coding and Software Engineering.</p>
+💻 Software Engineering at Universidade Federal do Ceará (UFC).  
+🚀 Back-end Developer at [Include Jr.](https://www.instagram.com/includejr/).  
+📚 Currently studying Node.js, TypeScript, MySQL and Java to strengthen my development skills.  
+🌐 Advanced English Level.  
+🎯 Goals: I want to be able to develop full-stack applications, but my main focus is back-end coding and Software Engineering.
 
 ###
 
