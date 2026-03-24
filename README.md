@@ -14,10 +14,8 @@ console.log("Welcome to my GitHub!");
 ###
 
 💻 Software Engineering at Universidade Federal do Ceará (UFC).  
-🚀 Back-end Developer at [Include Jr.](https://www.instagram.com/includejr/).  
-📚 Currently studying Node.js, TypeScript, MySQL and Java to strengthen my development skills.  
-🌐 Advanced English Level.  
-🎯 Goals: I want to be able to develop full-stack applications, but my main focus is back-end coding and Software Engineering.
+🚀 Back-end Developer at [Include Jr.](https://www.instagram.com/includejr/).
+🌐 Advanced English Level.
 
 ###
 
