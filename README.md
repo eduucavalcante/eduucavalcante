@@ -13,8 +13,8 @@ console.log("Welcome to my GitHub!");
 
 ###
 
-💻 Software Engineering at Universidade Federal do Ceará (UFC).  
-🚀 Back-end Developer at [Include Jr.](https://www.instagram.com/includejr/).
+💻 Software Engineering at Universidade Federal do Ceará (UFC).<br>
+🚀 Back-end Developer at [Include Jr.](https://www.instagram.com/includejr/).<br>
 🌐 Advanced English Level.
 
 ###
