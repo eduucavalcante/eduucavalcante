@@ -2,8 +2,8 @@
 
 ###
 
-```js
-console.log("Welcome to my GitHub!");
+```java
+System.out.println("Welcome to my GitHub!");
 ```
 <hr>
 
